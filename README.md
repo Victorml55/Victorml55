@@ -1,11 +1,5 @@
 <h1 align="center">Hola, soy Victor 👋</h1>
 
-<p align="center">
-  <img src="assets/yo.jpg" width="320" alt="Yo, entre Spotify, GitHub y VS Code">
-</p>
-
-<p align="center"><i>Yo, siendo convencido por Spotify, GitHub y VS Code de seguir programando un ratito más.</i></p>
-
 ## 🧑‍💻 Quién soy
 
 Estudiante de último semestre de Ingeniería en Sistemas Computacionales en el TecNM Celaya. Me muevo entre **desarrollo full stack**, **bases de datos** e **ingeniería de datos**: lo mismo monto un pipeline en AWS que escribo un compilador desde cero o entreno una IA que vigila cámaras.
@@ -51,3 +45,8 @@ Lenguaje de scripting con compilador propio en C99: análisis léxico, sintácti
 ### 📊 [BirriaDWH](https://github.com/Victorml55/REPO)
 Data warehouse OLAP con cubo SSAS, dashboard en Power BI y modelo Naive Bayes con 86.83% de precisión.
 `SQL Server` `SSAS` `Power BI` `scikit-learn`
+
+
+<p align="center">
+  <img src="assets/yo.jpeg" width="320" alt="Yo, entre Spotify, GitHub y VS Code">
+</p>
