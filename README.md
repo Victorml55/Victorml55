@@ -1,13 +1,15 @@
-<h1 align="center">Hola, soy Victor 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=180&section=header&text=Victor%20Mendoza&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/victor-ml-61b83736a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:victorml5505@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ## Yo:
 
-Estudiante de último semestre de Ingeniería en Sistemas Computacionales en el TecNM Celaya. Me muevo entre **desarrollo full stack**, **bases de datos** e **ingeniería de datos**: lo mismo monto un pipeline en AWS que escribo un compilador desde cero o entreno una IA que vigila cámaras.
-
-Ganador local de **InnovaTec 2025** con SafeVision. Me interesan la industria 4.0 y las soluciones que resuelven problemas reales.
-
-## Celaya, Guanajuato, México
-## Buscando residencias profesionales y un lugar donde seguir creciendo en desarrollo o datos
+Estudiante de último semestre de Ingeniería en Sistemas Computacionales en el TecNM Celaya. A veces haciendo apps web, otras veces bases de datos, compiladores o haciendo procesos ETL pero siempre animado.
 
 <p>
   <a href="https://linkedin.com/in/victor-ml-61b83736a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -28,7 +30,7 @@ Ganador local de **InnovaTec 2025** con SafeVision. Me interesan la industria 4.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## Proyectos destacados
+## Destacado
 
 ### [GasIQ](https://github.com/Victorml55/REPO)
 Predicción de precios de gasolina en México. Pipeline EDA → ETL en AWS → modelo Prophet por estado → dashboard en EC2.
