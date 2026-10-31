@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=180&section=header&text=Victor%20ML&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="assets/terminal.svg" width="560" alt="Terminal con frases sobre Victor">
 </p>
 
 ## Yo:
