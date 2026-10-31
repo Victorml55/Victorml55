@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=180&section=header&text=Victor%20Mendoza&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/victor-ml-61b83736a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:victorml5505@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=180&section=header&text=Victor%20ML&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 ## Yo:
