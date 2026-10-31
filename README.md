@@ -6,11 +6,6 @@
 
 Estudiante de último semestre de Ingeniería en Sistemas Computacionales en el TecNM Celaya. A veces haciendo apps web, otras veces bases de datos, compiladores o haciendo procesos ETL pero siempre animado.
 
-<p>
-  <a href="https://linkedin.com/in/victor-ml-61b83736a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:victorml5505@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
 ## Con lo que más trabajo
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
